@@ -9,12 +9,17 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "dropdowns": [
+    "versions": [
       {
-        "dropdown": "Untitled Dropdown",
-        "tabs": [
+        "version": "Untitled Version",
+        "dropdowns": [
           {
-            "tab": "Untitled Tab"
+            "dropdown": "Untitled Dropdown",
+            "tabs": [
+              {
+                "tab": "Untitled Tab"
+              }
+            ]
           }
         ]
       }
