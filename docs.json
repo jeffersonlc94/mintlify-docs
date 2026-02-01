@@ -10,7 +10,8 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
-      "introducao"
+      "introducao",
+      "termos-de-uso"
     ]
   },
   "logo": {
