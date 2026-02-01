@@ -9,20 +9,8 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "versions": [
-      {
-        "version": "Untitled Version",
-        "dropdowns": [
-          {
-            "dropdown": "Untitled Dropdown",
-            "tabs": [
-              {
-                "tab": "Untitled Tab"
-              }
-            ]
-          }
-        ]
-      }
+    "pages": [
+      "introducao"
     ]
   },
   "logo": {
